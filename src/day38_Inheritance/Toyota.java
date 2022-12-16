@@ -15,7 +15,6 @@ public class Toyota extends Car {
         System.out.println("Twist the key to ignition to start "+brand+" "+model);
     }
 
-
 }
 
 /*
