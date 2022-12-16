@@ -18,7 +18,6 @@ public class BMW extends Car{
         System.out.println("Call mechanic to jump start "+brand+" "+model);
     }
 
-
 }
 
 /*
